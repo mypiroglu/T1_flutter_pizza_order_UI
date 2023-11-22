@@ -1,0 +1,12 @@
+{
+    "pizzaTitle":"Etli Peynirli",
+    "cheeseText":"Peynir",
+    "sausageText": "Sosis",
+    "oliveText":"Zeytin",
+    "pepperText": "Biber",
+    "deliveryTime":"20 dk",
+    "deliveryTitle": "Teslimat",
+    "pizzaContent": "Et sever, pizzanla tanışmaya hazırlan!",
+    "price": "160 ₺",
+    "buttonText": "SEPETE EKLE"
+}

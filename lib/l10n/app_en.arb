@@ -1,0 +1,12 @@
+{
+    "pizzaTitle":"Beef Cheese",
+    "cheeseText":"Cheese",
+    "sausageText": "Sausage",
+    "oliveText":"Olive",
+    "pepperText": "Pepper",
+    "deliveryTime":"20 min",
+    "deliveryTitle": "Delivery",
+    "pizzaContent": "Meat lover, get ready to meet your pizza !",
+    "price": "$ 5.98",
+    "buttonText": "ADD TO CART"
+}
